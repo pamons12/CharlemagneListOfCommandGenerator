@@ -1,0 +1,376 @@
+!rank forged ->  Ada Weapons Forged
+!rank season ->  Current Season Rank
+!rank clanxp ->  Current Season Total Personal Clan XP
+!rank activetriumphs ->  D2 Active Triumph Score
+!rank clashscore ->  D2 Best Clash Score
+!rank controlscore ->  D2 Best Control Score
+!rank mayhemscore ->  D2 Best Mayhem Score
+!rank nfscore ->  D2 Best Nightfall Team Score
+!rank quickplayscore ->  D2 Best Quickplay Score
+!rank rumblescore ->  D2 Best Rumble Score
+!rank supremacyscore ->  D2 Best Supremacy Score
+!rank clasheff ->  D2 Clash Efficiency
+!rank clasheff ->  D2 Clash Efficiency
+!rank clashkd ->  D2 Clash K/D
+!rank clashwinp ->  D2 Clash Win Percent
+!rank competitiveeff ->  D2 Competitive Efficiency
+!rank competitivekd ->  D2 Competitive K/D
+!rank competitivewinp ->  D2 Competitive Win Percent
+!rank controleff ->  D2 Control Efficiency
+!rank controleff ->  D2 Control Efficiency
+!rank controlkd ->  D2 Control K/D
+!rank controlwinp ->  D2 Control Win Percent
+!rank countdowneff ->  D2 Countdown Efficiency
+!rank countdowneff ->  D2 Countdown Efficiency
+!rank countdownkd ->  D2 Countdown K/D
+!rank countdownwinp ->  D2 Countdown Win Percent
+!rank glory ->  D2 Current Season Glory Rank
+!rank infamy ->  D2 Current Season Infamy Rank
+!rank infamyresets ->  D2 Current Season Infamy Resets
+!rank valor ->  D2 Current Season Valor Rank
+!rank valorresets ->  D2 Current Season Valor Resets
+!rank do ->  D2 Dead Orbit Reputation Level
+!rank edz ->  D2 EDZ Reputation Level
+!rank fastestclash ->  D2 Fastest Clash Match
+!rank fastestcompetitive ->  D2 Fastest Competitive Match
+!rank fastestcontrol ->  D2 Fastest Control Match
+!rank fastestcountdown ->  D2 Fastest Countdown Match
+!rank fastestmayhem ->  D2 Fastest Mayhem Match
+!rank fastestnf ->  D2 Fastest Nightfall
+!rank fastestnnf ->  D2 Fastest Normal Nightfall
+!rank fastestnstrike ->  D2 Fastest Normal Strike
+!rank fastestpnf ->  D2 Fastest Prestige Nightfall
+!rank fastestquickplay ->  D2 Fastest Quickplay Match
+!rank fastestrumble ->  D2 Fastest Rumble Match
+!rank fasteststrike ->  D2 Fastest Strike
+!rank fastestsupremacy ->  D2 Fastest Supremacy Match
+!rank fastestsurvival ->  D2 Fastest Survival Match
+!rank fwc ->  D2 Future War Cult Reputation Level
+!rank gunsmith ->  D2 Gunsmith Reputation Level
+!rank hpe ->  D2 Heroic Public Events
+!rank infamytotalresets ->  D2 Infamy Resets Total
+!rank io ->  D2 IO Reputation Level
+!rank legacytriumphs ->  D2 Legacy Triumph Score
+!rank calus ->  D2 Leviathan Reputation Level
+!rank vance ->  D2 Lighthouse Reputation Level
+!rank clashspree ->  D2 Longest Clash Kill Spree
+!rank competitivespree ->  D2 Longest Competitive Kill Spree
+!rank controlspree ->  D2 Longest Control Kill Spree
+!rank countdownspree ->  D2 Longest Countdown Kill Spree
+!rank spree ->  D2 Longest Kill Spree
+!rank mayhemspree ->  D2 Longest Mayhem Kill Spree
+!rank quickplayspree ->  D2 Longest Quickplay Kill Spree
+!rank rumblespree ->  D2 Longest Rumble Kill Spree
+!rank supremacyspree ->  D2 Longest Supremacy Kill Spree
+!rank survivalspree ->  D2 Longest Survival Kill Spree
+!rank mars ->  D2 Mars Reputation Level
+!rank maxpower ->  D2 Maximum Reported Power
+!rank mayhemeff ->  D2 Mayhem Efficiency
+!rank mayhemeff ->  D2 Mayhem Efficiency
+!rank mayhemkd ->  D2 Mayhem K/D
+!rank mayhemwinp ->  D2 Mayhem Win Percent
+!rank clashkills ->  D2 Most Kills in a Clash Game
+!rank competitivekills ->  D2 Most Kills in a Competitive Game
+!rank controlkills ->  D2 Most Kills in a Control Game
+!rank countdownkills ->  D2 Most Kills in a Countdown Game
+!rank pvpkills ->  D2 Most Kills in a Game
+!rank mayhemkills ->  D2 Most Kills in a Mayhem Game
+!rank quickplaykills ->  D2 Most Kills in a Quickplay Game
+!rank rumblekills ->  D2 Most Kills in a Rumble Game
+!rank supremacykills ->  D2 Most Kills in a Supremacy Game
+!rank survivalkills ->  D2 Most Kills in a Survival Game
+!rank nessus ->  D2 Nessus Reputation Level
+!rank nm ->  D2 New Monarchy Reputation Level
+!rank nnf ->  D2 Normal Nightfall Completions
+!rank eff ->  D2 Overall PvP Efficiency
+!rank kd ->  D2 Overall PvP K/D
+!rank winp ->  D2 Overall PvP Win Percent
+!rank pit ->  D2 Pit of Heresy Total Completions
+!rank pnf ->  D2 Prestige Nightfall Completions
+!rank prophecy ->  D2 Prophecy Total Completions
+!rank pe ->  D2 Public Events
+!rank revives ->  D2 PvE Revives Performed
+!rank quickplayeff ->  D2 Quickplay Efficiency
+!rank quickplaykd ->  D2 Quickplay K/D
+!rank quickplaywinp ->  D2 Quickplay Win Percent
+!rank ikora ->  D2 Research Reputation Level
+!rank rumbleeff ->  D2 Rumble Efficiency
+!rank rumblekd ->  D2 Rumble K/D
+!rank rumblewinp ->  D2 Rumble Win Percent
+!rank throne ->  D2 Shattered Throne Total Completions
+!rank supremacyeff ->  D2 Supremacy Efficiency
+!rank supremacyeff ->  D2 Supremacy Efficiency
+!rank supremacykd ->  D2 Supremacy K/D
+!rank supremacywinp ->  D2 Supremacy Win Percent
+!rank survivaleff ->  D2 Survival Efficiency
+!rank survivaleff ->  D2 Survival Efficiency
+!rank survivalkd ->  D2 Survival K/D
+!rank survivalwinp ->  D2 Survival Win Percent
+!rank zavala ->  D2 Tactical Reputation Level
+!rank titan ->  D2 Titan Reputation Level
+!rank activetime ->  D2 Total Active Time
+!rank clashtime ->  D2 Total Clash Time
+!rank competitivetime ->  D2 Total Competitive Time
+!rank controltime ->  D2 Total Control Time
+!rank countdowntime ->  D2 Total Countdown Time
+!rank dungeons ->  D2 Total Dungeon Completions
+!rank mayhemtime ->  D2 Total Mayhem Time
+!rank nf ->  D2 Total Nightfall Completions
+!rank nftime ->  D2 Total Nightfall Time
+!rank nstrikes ->  D2 Total Normal Strike Completions
+!rank nstriketime ->  D2 Total Normal Strike Time
+!rank pvetime ->  D2 Total PvE Time
+!rank pvpmatches ->  D2 Total PvP Matches
+!rank pvptime ->  D2 Total PvP Time
+!rank quickplaytime ->  D2 Total Quickplay Time
+!rank rumbletime ->  D2 Total Rumble Time
+!rank strikes ->  D2 Total Strike Completions
+!rank striketime ->  D2 Total Strike Time
+!rank supremacytime ->  D2 Total Supremacy Time
+!rank survivaltime ->  D2 Total Survival Time
+!rank totaltime ->  D2 Total Time Logged In
+!rank valortotalresets ->  D2 Total Valor Resets
+!rank triumphs ->  D2 Triumph Score
+!rank valortotalranks ->  D2 Valor Ranks Total
+!rank nfrank ->  D2 Vanguard Nightfall Rank
+!rank nfrank ->  D2 Vanguard Nightfall Rank
+!rank snowballs ->  Enemies Killed with Snowballs
+!rank ep ->  Escalation Protocol Final Boss Kills
+!rank fastestpit ->  Fastest Full Pit of Heresy Run
+!rank fastestproph ->  Fastest Full Prophecy Run
+!rank fastestthrone ->  Fastest Full Shattered Throne Run
+!rank fastestmeng ->  Fastest Menagerie Run
+!rank masks ->  FotL Masks Earned
+!rank nightmares ->  FotL Nightmares Killed
+!rank fractaline ->  Fractaline Donated
+!rank meng ->  Menagerie Total Completions
+!rank mengtime ->  Menagerie Total Time
+!rank orbs ->  PvE Orbs Generated
+!rank clanxps11 ->  Season 11 Total Personal Clan XP
+!rank clanxps12 ->  Season 12 Total Personal Clan XP
+!rank clanxps13 ->  Season 13 Total Personal Clan XP
+!rank clanxps2 ->  Season 2 Total Personal Clan XP
+!rank clanxps3 ->  Season 3 Total Personal Clan XP
+!rank clanxps4 ->  Season 4 Total Personal Clan XP
+!rank clanxps5 ->  Season 5 Total Personal Clan XP
+!rank clanxps6 ->  Season 6 Total Personal Clan XP
+!rank clanxps7 ->  Season 7 Total Personal Clan XP
+!rank seals ->  Total Seals (Titles) Obtained
+!rank resonance ->  Tower Obelisk Resonance Power
+!rank nodes ->  Unique Sleeper Nodes Unlocked
+
+********** Destiny 1 Commands **********
+!rank d1_book ->  D1 AoT Book Percent Complete
+!rank d1_bookl ->  D1 Book Level
+!rank d1_cr ->  D1 Combat Rating
+!rank d1_ce ->  D1 Crota's End Completions
+!rank d1_clash ->  D1 Current Clash Elo
+!rank d1_control ->  D1 Current Control Elo
+!rank d1_doubles ->  D1 Current Doubles Elo
+!rank d1_elim ->  D1 Current Elimination Elo
+!rank d1_ib ->  D1 Current Iron Banner Elo
+!rank d1_rift ->  D1 Current Rift Elo
+!rank d1_rumble ->  D1 Current Rumble Elo
+!rank d1_salvage ->  D1 Current Salvage Elo
+!rank d1_skirmish ->  D1 Current Skirmish Elo
+!rank d1_srl ->  D1 Current SRL Elo
+!rank d1_supremacy ->  D1 Current Supremacy Elo
+!rank d1_trials ->  D1 Current Trials Elo
+!rank d1_trialsmmr ->  D1 Current Trials MMR
+!rank d1_zc ->  D1 Current Zone Control Elo
+!rank d1_fastestwotm390 ->  D1 Fastest 390 Wrath of the Machine
+!rank d1_fastestce ->  D1 Fastest Crota's End Completion
+!rank d1_fastestcehm ->  D1 Fastest HM Crota Run
+!rank d1_fastestkfhm ->  D1 Fastest HM King's Fall Run
+!rank d1_fastestvoghm ->  D1 Fastest HM VoG Completion
+!rank d1_fastestwotmhm ->  D1 Fastest HM Wrath of the Machine
+!rank d1_fastestkf ->  D1 Fastest King's Fall Run
+!rank d1_fastestce390 ->  D1 Fastest L390 Crota's End Run
+!rank d1_fastestkf390 ->  D1 Fastest L390 King's Fall Run
+!rank d1_fastestvog390 ->  D1 Fastest L390 VoG Completion
+!rank d1_fastestvog ->  D1 Fastest VoG Completion
+!rank d1_fastestwotm ->  D1 Fastest Wrath of the Machine
+!rank d1_grim ->  D1 Grimoire Score
+!rank d1_score ->  D1 Highest PvP Score
+!rank d1_kf ->  D1 King's Fall Completions
+!rank d1_spree ->  D1 Longest Kill Spree
+!rank d1_life ->  D1 Longest PvE Life
+!rank d1_light ->  D1 Max Light Level
+!rank d1_pvpkills ->  D1 Most Kills in a Game
+!rank d1_pvekills ->  D1 Most Kills in a Game
+!rank d1_fastestnf ->  D1 Nightfall Fastest Time
+!rank d1_kda ->  D1 Overall K+A / D
+!rank d1_kd ->  D1 Overall K/D
+!rank d1_pvetime ->  D1 Overall PvE Time
+!rank d1_pvptime ->  D1 Overall PvP Time
+!rank d1_trialskd ->  D1 Overall Trials K/D
+!rank d1_trialswinp ->  D1 Overall Trials Win
+!rank d1_winp ->  D1 Overall Win
+!rank d1_activetime ->  D1 Total Active Time
+!rank d1_flawless ->  D1 Total Flawless
+!rank d1_raidtime ->  D1 Total Raid Time
+!rank d1_raids ->  D1 Total Raids
+!rank d1_totaltime ->  D1 Total Time Logged In
+!rank d1_trialstime ->  D1 Trials Time
+!rank d1_vog ->  D1 Vault of Glass Completions
+!rank d1_wotm ->  D1 Wrath of the Machine
+
+********** Iron Banner Commands **********
+!rank ibclashscore ->  D2 Best IB Clash Score
+!rank ibscore ->  D2 Best Iron Banner Score
+!rank crucible ->  D2 Crucible Reputation Level
+!rank fastestpvp ->  D2 Fastest Crucible Match
+!rank fastestibclash ->  D2 Fastest IB Clash Match
+!rank fastestib ->  D2 Fastest Iron Banner Match
+!rank ibclasheff ->  D2 IB Clash Efficiency
+!rank ibclashkd ->  D2 IB Clash K/D
+!rank ibclashwinp ->  D2 IB Clash Win Percent
+!rank ibeff ->  D2 Iron Banner Efficiency
+!rank ib ->  D2 Iron Banner Elo
+!rank ibkd ->  D2 Iron Banner K/D
+!rank saladin ->  D2 Iron Banner Reputation Level
+!rank ibwinp ->  D2 Iron Banner Win Percent
+!rank ibclashspree ->  D2 Longest IB Clash Kill Spree
+!rank ibspree ->  D2 Longest IB Kill Spree
+!rank ibkills ->  D2 Most Kills in a IB Game
+!rank ibclashkills ->  D2 Most Kills in an IB Clash Game
+!rank pvpscore ->  D2 Overall Best Crucible Score
+!rank ibclashtime ->  D2 Total IB Clash Time
+!rank ibtime ->  D2 Total Iron Banner Time
+!rank clanxpweekly ->  Weekly Clan XP Contribution
+
+********** Trials Commands **********
+!rank flawlessseason ->  D2 Current Season Trials of Osiris Flawless
+!rank y1fastesttrials ->  D2 Fastest Trials of the Nine Match
+!rank y1trialsspree ->  D2 Longest Kill Spree in Trials of the Nine
+!rank trialskills ->  D2 Most Kills in a Trials of Osiris Game
+!rank y1trialskills ->  D2 Most Kills in a Trials of the Nine Match
+!rank flawless ->  D2 Overall Trials of Osiris Flawless
+!rank y1trialseff ->  D2 Overall Trials of the Nine Efficiency
+!rank y1trialskd ->  D2 Overall Trials of the Nine K/D
+!rank y1trialswinp ->  D2 Overall Trials of the Nine Win Percent
+!rank y1flawless ->  D2 Total Flawless in Trials of the Nine
+!rank trialstime ->  D2 Total Trials of Osiris Time
+!rank y1trialstime ->  D2 Total Trials of the Nine Time
+!rank trialseff ->  D2 Trials of Osiris Efficiency
+!rank trialseff ->  D2 Trials of Osiris Efficiency
+!rank trialskd ->  D2 Trials of Osiris K/D
+!rank trialswinp ->  D2 Trials of Osiris Win Percent
+!rank trialswinp ->  D2 Trials of Osiris Win Percent
+!rank nine ->  D2 Trials Reputation Level
+
+********** Double PVP Commands **********
+!rank crimsoneff ->  D2 Crimson Doubles Efficiency
+!rank crimsonkd ->  D2 Crimson Doubles K/D
+!rank crimsonwinp ->  D2 Crimson Doubles Win Percent
+!rank crimsonwinp ->  D2 Crimson Doubles Win Percent
+!rank doubleseff ->  D2 Doubles Efficiency
+!rank doubleskd ->  D2 Doubles K/D
+!rank doubleswinp ->  D2 Doubles Win Percent
+!rank fastestcrimson ->  D2 Fastest Crimson Doubles Match
+!rank fastestdoubles ->  D2 Fastest Doubles Match
+!rank crimsonspree ->  D2 Longest Crimson Doubles Kill Spree
+!rank doublesspree ->  D2 Longest Doubles Kill Spree
+!rank crimsonkills ->  D2 Most Kills in a Crimson Doubles Game
+!rank doubleskills ->  D2 Most Kills in a Doubles Game
+!rank crimsontime ->  D2 Total Crimson Doubles Time
+!rank doublestime ->  D2 Total Doubles Time
+
+********** Raid Commands **********
+!rank cosfull ->  D2 Crown of Sorrow Full Runs
+!rank cos ->  D2 Crown of Sorrow Total Completions
+!rank dsc ->  D2 Deep Stone Crypt Total Completions
+!rank gosfull ->  D2 Garden of Salvation Full Runs
+!rank gos ->  D2 Garden of Salvation Total Completions
+!rank lwfull ->  D2 Last Wish Full Runs
+!rank eownm ->  D2 Lev: Eater of Worlds NM Completions
+!rank eowpm ->  D2 Lev: Eater of Worlds PM Completions
+!rank eow ->  D2 Lev: Eater of Worlds Total Completions
+!rank sosnm ->  D2 Lev: Spire of Stars NM Completions
+!rank sospm ->  D2 Lev: Spire of Stars PM Completions
+!rank sos ->  D2 Lev: Spire of Stars Total Completions
+!rank levnm ->  D2 Leviathan NM Completions
+!rank levpm ->  D2 Leviathan PM Completions
+!rank lev ->  D2 Leviathan Total Completions
+!rank sotpfull ->  D2 Scourge of the Past Full Runs
+!rank sotp ->  D2 Scourge of the Past Total Completions
+!rank lw ->  D2 Total Last Wish Completions
+!rank raidsnm ->  D2 Total Normal Raid Completions
+!rank raidspm ->  D2 Total Prestige Raid Completions
+!rank raids ->  D2 Total Raid Completions
+!rank raidtime ->  D2 Total Raid Time
+!rank eowfull ->  Eater of Worlds Full Runs
+!rank eowfullnm ->  Eater of Worlds Normal Full Runs
+!rank eowfullpm ->  Eater of Worlds Prestige Full Runs
+!rank fastestcos ->  Fastest Full CoS Run
+!rank fastesteowpm ->  Fastest Full EoW PM Run
+!rank fastesteow ->  Fastest Full EoW Run
+!rank fastestgos ->  Fastest Full GoS Run
+!rank fastestlw ->  Fastest Full Last Wish Run
+!rank fastestlevpm ->  Fastest Full Leviathan PM Run
+!rank fastestlev ->  Fastest Full Leviathan Run
+!rank fastestsospm ->  Fastest Full SoS PM Run
+!rank fastestsos ->  Fastest Full SoS Run
+!rank fastestsotp ->  Fastest Full SotP Run
+!rank levfull ->  Leviathan Full Runs
+!rank levfullnm ->  Leviathan Normal Full Runs
+!rank levfullpm ->  Leviathan Prestige Full Runs
+!rank sosfull ->  Spire of Stars Full Runs
+!rank sosfullnm ->  Spire of Stars Normal Full Runs
+!rank sosfullpm ->  Spire of Stars Prestige Full Runs
+
+********** Gambit Commands **********
+!rank gambitkpi ->  D2 Gambit Avg KPI: Kills / Invasion
+!rank gambitmpi ->  D2 Gambit Avg MPI: Motes Denied / Invasion
+!rank gambitmpm ->  D2 Gambit Avg MPM: Motes Deposited / Match
+!rank gambitmpr ->  D2 Gambit Avg MPR: Motes Deposited / Round
+!rank gambitdmg ->  D2 Gambit Avg Primeval Damage
+!rank gambithealp ->  D2 Gambit Avg Primeval Healing
+!rank gambitkpr ->  D2 Gambit Avg PvE Kills / Round
+!rank gckpi ->  D2 Gambit Classic Avg KPI: Kills / Invasion
+!rank gcdmg ->  D2 Gambit Classic Avg Primeval Damage
+!rank gchealp ->  D2 Gambit Classic Avg Primeval Healing
+!rank gcikilled ->  D2 Gambit Classic Invaders Killed
+!rank gcikd ->  D2 Gambit Classic Invasion K/D
+!rank gcikills ->  D2 Gambit Classic Invasion Kills
+!rank gcikilledby ->  D2 Gambit Classic Killed By Invaders
+!rank gcwinp ->  D2 Gambit Classic Match Win Percent
+!rank gcden ->  D2 Gambit Classic Motes Denied
+!rank gcdep ->  D2 Gambit Classic Motes Deposited
+!rank gclost ->  D2 Gambit Classic Motes Lost
+!rank gclostp ->  D2 Gambit Classic Motes Lost Percent
+!rank gcmpi ->  D2 Gambit Classic MPI: Motes Denied/Invasion
+!rank gcmpm ->  D2 Gambit Classic MPM: Motes Deposited/Match
+!rank gcmpr ->  D2 Gambit Classic MPR: Motes Deposited/Round
+!rank gckpr ->  D2 Gambit Classic PvE Kills / Round
+!rank gcwinpr ->  D2 Gambit Classic Round Win Percent
+!rank gambitikilled ->  D2 Gambit Invaders Killed
+!rank gambitikd ->  D2 Gambit Invasion K/D
+!rank gambitikills ->  D2 Gambit Invasion Kills
+!rank gambitikilledby ->  D2 Gambit Killed By Invaders
+!rank gambitwinp ->  D2 Gambit Match Win Percent
+!rank gambitden ->  D2 Gambit Motes Denied
+!rank gambitdep ->  D2 Gambit Motes Deposited
+!rank gambitlost ->  D2 Gambit Motes Lost
+!rank gambitlostp ->  D2 Gambit Motes Lost Percent
+!rank gpkpi ->  D2 Gambit Prime Avg KPI: Kills / Invasion
+!rank gpdmg ->  D2 Gambit Prime Avg Primeval Damage
+!rank gphealp ->  D2 Gambit Prime Avg Primeval Healing
+!rank gpikilled ->  D2 Gambit Prime Invaders Killed
+!rank gpikd ->  D2 Gambit Prime Invasion K/D
+!rank gpikills ->  D2 Gambit Prime Invasion Kills
+!rank gpikilledby ->  D2 Gambit Prime Killed By Invaders
+!rank gpwinp ->  D2 Gambit Prime Match Win Percent
+!rank gpden ->  D2 Gambit Prime Motes Denied
+!rank gpdep ->  D2 Gambit Prime Motes Deposited
+!rank gplost ->  D2 Gambit Prime Motes Lost
+!rank gplostp ->  D2 Gambit Prime Motes Lost Percent
+!rank gpmpi ->  D2 Gambit Prime MPI: Motes Denied / Invasion
+!rank gpmpm ->  D2 Gambit Prime MPM: Motes Deposited / Match
+!rank gpmpr ->  D2 Gambit Prime MPR: Motes Deposited / Round
+!rank gpkpr ->  D2 Gambit Prime PvE Kills / Round
+!rank gpwinpr ->  D2 Gambit Prime Round Win Percent
+!rank gambitwinpr ->  D2 Gambit Round Win Percent
+!rank gctime ->  D2 Total Gambit Classic Time
+!rank gptime ->  D2 Total Gambit Prime Time
+!rank gambittime ->  D2 Total Gambit Time
